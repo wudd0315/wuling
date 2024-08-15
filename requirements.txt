@@ -13,4 +13,4 @@ uitest==0.2.5
 websocket-client==1.5.1
 websockets==11.0.2
 matplotlib==3.7.5
-
+opencv-python==4.7.0.72
