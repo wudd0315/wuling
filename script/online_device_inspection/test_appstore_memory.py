@@ -40,7 +40,6 @@ class TestAppstorememory(TestBase):
     @allure.feature('内存泄漏')
     @allure.story("获取应用商店内存泄漏")
     @allure.title("get appstore memory")
-    @pytest.mark.memory
     def test_check_appstore_memory(self, get_test_method_name):
         """
         获取应用商店进入退出后的内存泄漏信息
