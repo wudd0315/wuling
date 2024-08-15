@@ -1,0 +1,7 @@
+[32mINFO    [0m smarthome:Checker.py:25 Begin to run TestDialer.__check_device_connect_status
+[32mINFO    [0m smarthome:Checker.py:37 TestDialer.__check_device_connect_status:None
+[32mINFO    [0m smarthome:TestBase.py:45 ======================= start setUp
+[32mINFO    [0m smarthome:test_dialer.py:34 begin to test
+[32mINFO    [0m smarthome:Checker.py:25 Begin to run ConnectDevice.start_app
+[32mINFO    [0m smarthome:Checker.py:37 ConnectDevice.start_app:None
+[32mINFO    [0m smarthome:Checker.py:25 Begin to run ConnectDevice.create_assert_message

@@ -1,0 +1,10 @@
+test_navigation_memory.py::TestNavigationmemory::test_check_navigation_memory
+test_phone_memory.py::TestPhonememory::test_check_navigation_memory
+test_weather_memory.py::TestWeathermemory::test_check_navigation_memory
+test_navigation.py::TestNavigation::test_check_navigation
+test_navigation.py::TestNavigation::test_check_navigation
+test_navigation.py::TestNavigation::test_check_navigation
+test_navigation.py::TestNavigation::test_check_navigation
+test_navigation.py::TestNavigation::test_check_navigation
+test_music_memory.py::TestMusicmemory::test_check_kuwo_memory
+test_music_memory.py::TestMusicmemory::test_check_kuwo_memory

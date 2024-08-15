@@ -1,0 +1,16 @@
+allure-pytest==2.13.2
+allure-python-commons==2.13.2
+decorator==5.1.1
+hypium==0.0.1a0
+numpy==1.24.4
+Pillow==10.1.0
+pytest==8.0.2
+pytest-html==4.1.1
+pytest-metadata==3.1.1
+PyYAML==6.0.1
+requests==2.31.0
+uitest==0.2.5
+websocket-client==1.5.1
+websockets==11.0.2
+matplotlib==3.7.5
+
