@@ -8,6 +8,11 @@ pipeline{
     allure('allure') //使用allure工具
     }
     stages{
+        stage('拉取代码') {
+            steps {
+                git branch: 'master', credentialsId: '2eaff256-2a8a-4126-9264-f0790f5e99b9', url: 'https://github.com/wudd0315/wuling.git'
+            }
+        }
         stage("安装依赖"){
             steps {
                 script {
